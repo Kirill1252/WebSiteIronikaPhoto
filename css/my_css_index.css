@@ -1,3 +1,22 @@
 body{
-   	background-image: url(../img/32.jpg);
+   	background-image: url(../img/35.jpg);
 }
+
+li{
+	list-style-type: none;
+	font-family: cursive;
+}
+
+.cursive {
+  font-family: cursive;
+}
+h5{
+	font-family: cursive;
+}
+
+a:link, a:visited, a:hover, a:active{
+    text-decoration: none;
+	color:#55585B;
+}
+
+ 
